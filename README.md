@@ -2,7 +2,7 @@
 
 Helper libraries:
 
-- [ ] logger 
+- [ ] logger
 - [ ] errors
 - [ ] setups
 
