@@ -2,9 +2,9 @@
 
 Helper libraries:
 
-- logger [ ]
-- errors [ ]
-- setups [ ]
+- [ ] logger 
+- [ ] errors
+- [ ] setups
 
 Some of this libraries will be used by multiple services.
 
